@@ -8401,6 +8401,11 @@ unpipe@~1.0.0:
   resolved "https://registry.yarnpkg.com/unpipe/-/unpipe-1.0.0.tgz#b2bf4ee8514aae6165b4817829d21b2ef49904ec"
   integrity sha1-sr9O6FFKrmFltIF4KdIbLvSZBOw=
 
+unreduxed@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/unreduxed/-/unreduxed-1.0.1.tgz#656ea67cf9c081a3acf3cfce29e271d1ed9b39e7"
+  integrity sha512-Klhk0Ewp5tQnfyMQLI0aMNXNFgy38YOMtY0765FEMmpVGMBaVrZ3G6mZskbx2vNFmTFrhi+9a/ZsdWT5jXf9OA==
+
 unset-value@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/unset-value/-/unset-value-1.0.0.tgz#8376873f7d2335179ffb1e6fc3a8ed0dfc8ab559"
