@@ -1,0 +1,4 @@
+export const WELCOME_SCREEN = 'WELCOME_SCREEN'
+export const TAB_BOTTOM = 'TAB_BOTTOM'
+export const SIGN_IN = 'SIGN_IN'
+export const FORGOT_PASSWORD = 'FORGOT_PASSWORD'
