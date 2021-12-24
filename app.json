@@ -1,0 +1,12 @@
+{
+  "name": "SUT-mobile",
+  "displayName": "SUT-mobile",
+  "expo": {
+    "name": "SUT-mobile",
+    "slug": "SUT-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
